@@ -27,16 +27,23 @@ Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js**
 
 ## 🛠️ **Quick Start (Local)**
 
+## 📁 **Project Structure**
+├── app.py # Main Flask app
+├── requirements.txt # Python dependencies
+├── Procfile # Render deployment
+├── runtime.txt # Python version
+└── README.md # This file
+
 
 ## 📸 **Add Your Screenshot**
 1. Dashboard ka **screenshot le lo**
-2. GitHub repo me `screenshot.png` upload karo
+2. GitHub repo me `[screenshot.png](https://ibb.co/bRj7DJHT)` upload karo
 3. README me image link update: `![Screenshot](screenshot.png)`
 
 ## 👨‍💻 **Author**
 **Rajali**  
 Made with ❤️ in **India**  
-[📧 Contact](mailto:your-email@gmail.com)
+[📧 Contact](mailto:ali.raj2511@gmail.com)
 
 ## 📄 **License**
 © 2025 Rajali. All rights reserved.
