@@ -9,7 +9,7 @@ Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js**
 
 ## 📱 **Screenshot**
 <div align="center">
-  <img src="[[https://via.placeholder.com/1200x700/4F46E5/FFFFFF?text=Expense+Tracker+Pro+Dashboard](https://ibb.co/bRj7DJHT)](https://ibb.co/bRj7DJHT)" alt="Expense Tracker Pro Screenshot" width="100%"/>
+  <img src="https://ibb.co/bRj7DJHT" alt="Expense Tracker Pro Screenshot" width="100%"/>
   <!-- YE LINK UPDATE KAR DENA jab screenshot upload karo -->
 </div>
 
