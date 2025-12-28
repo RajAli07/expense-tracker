@@ -13,7 +13,7 @@ Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js**
 
 | Dashboard | All Expenses | Summary |
 |-----------|--------------|---------|
-| ![Dashboard](https://i.ibb.co/S7DJGrQb/Screenshot-2025-12-28-at-5-19-14-PM.png) | ![Expenses](https://i.ibb.co/gv5vY5mD/Screenshot-2025-12-28-at-5-35-16-PM.png) | ![Summary](https://i.ibb.co/0MtkV3nV/Screenshot-2025-12-28-at-5-34-48-PM.png) |
+| ![Dashboard](https://i.ibb.co/S7DJGrQb/Screenshot-2025-12-28-at-5-19-14-PM.png) | ![Expenses](https://i.ibb.co/hJB0Bb0F/Screenshot-2025-12-28-at-5-34-48-PM.png) | ![Summary](https://i.ibb.co/0MtkV3nV/Screenshot-2025-12-28-at-5-34-48-PM.png) |
 
 <sub>Click any image to view full HD (2940x1912) 👆 | Hosted on [ImgBB](https://imgbb.com)</sub>
 
