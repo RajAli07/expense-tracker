@@ -8,27 +8,35 @@ Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js**
 🚀 **Coming Soon!** Deployed on Render.com
 
 ## 📱 **Screenshots**
-
 <div align="center">
-
-### 🎨 **Dashboard**
-<a href="https://ibb.co/bRj7DJHT">
-  <img src="https://i.ibb.co/S7DJGrQb/Screenshot-2025-12-28-at-5-19-14-PM.png" alt="Expense Tracker Pro Dashboard" width="100%" />
-</a>
-
-### 📋 **View All Expenses**
-<a href="https://ibb.co/Kc3hJQDG">
-  <img src="https://i.ibb.co/gv5vY5mD/Screenshot-2025-12-28-at-5-35-16-PM.png" alt="View All Expenses" width="100%" />
-</a>
-
-### 📊 **Summary Stats**
-<a href="https://ibb.co/21vJvxJ3">
-  <img src="https://i.ibb.co/0MtkV3nV/Screenshot-2025-12-28-at-5-34-48-PM.png" alt="Summary Statistics" width="100%" />
-</a>
-
-<br><small>👆 Click images to view full resolution | Hosted on <a href="https://imgbb.com">ImgBB</a></small>
-
+  <table>
+    <tr>
+      <td><strong>🎨 Dashboard</strong></td>
+      <td><strong>📋 All Expenses</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://ibb.co/bRj7DJHT">
+          <img src="https://i.ibb.co/S7DJGrQb/Screenshot-2025-12-28-at-5-19-14-PM.png" width="500" />
+        </a>
+      </td>
+      <td>
+        <a href="https://ibb.co/Kc3hJQDG">
+          <img src="https://i.ibb.co/gv5vY5mD/Screenshot-2025-12-28-at-5-35-16-PM.png" width="500" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;padding-top:20px;">
+        <a href="https://ibb.co/21vJvxJ3">
+          <img src="https://i.ibb.co/0MtkV3nV/Screenshot-2025-12-28-at-5-34-48-PM.png" width="100%" />
+        </a>
+        <br><small><strong>📊 Summary Page</strong> | Click to enlarge</small>
+      </td>
+    </tr>
+  </table>
 </div>
+
    
 ## 🚀 **Features**
 - ✅ **Add expenses** with categories (Food, Transport, Shopping, etc.)
