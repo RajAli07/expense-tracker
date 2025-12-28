@@ -2,7 +2,7 @@
 
 Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js** + **Tailwind CSS**. Track your spending with live charts, categories, and CSV export!
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=YOUR_GITHUB_USERNAME/expense-tracker)
+[![Deploy to vercel](https://vercel.com/images/deploy-to-vercel-button.svg)](https://vercel.com/deploy?repo=YOUR_GITHUB_USERNAME/expense-tracker)
 
 ## ✨ **Live Demo**
 🚀 **Coming Soon!** Deployed on Render.com
