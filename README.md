@@ -14,14 +14,13 @@ Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js**
 </div>
 
 <div align="center">
-  <a href="https://ibb.co/21vJvxJ3>
-    img src="https://i.ibb.co/hJB0Bb0F/Screenshot-2025-12-28-at-5-34-48-PM.png" alt="Screenshot-2025-12-28-at-5-34-48-PM width="100%" />
+  <a href="https://ibb.co/Kc3hJQDG"><img src="https://i.ibb.co/LD2R3qrP/Screenshot-2025-12-28-at-5-35-16-PM.png" alt="Screenshot-2025-12-28-at-5-35-16-PM" width="100%" />
 </div>
+    
 <div align="center">
-  <a href="https://ibb.co/21vJvxJ3
-https://ibb.co/Kc3hJQDG>
-    <img src="https://i.ibb.co/LD2R3qrP/Screenshot-2025-12-28-at-5-35-16-PM.png" alt="Screenshot-2025-12-28-at-5-35-16-PM" width="100%" />
+ <a href="https://ibb.co/21vJvxJ3"><img src="https://i.ibb.co/hJB0Bb0F/Screenshot-2025-12-28-at-5-34-48-PM.png" alt="Screenshot-2025-12-28-at-5-34-48-PM" width="100%" />
 </div>
+   
 ## 🚀 **Features**
 - ✅ **Add expenses** with categories (Food, Transport, Shopping, etc.)
 - 📊 **Live doughnut chart** - spending breakdown
