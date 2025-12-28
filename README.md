@@ -9,7 +9,7 @@ Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js**
 
 ## 📱 **Screenshot**
 <div align="center">
-  <img src="https://via.placeholder.com/1200x700/4F46E5/FFFFFF?text=Expense+Tracker+Pro+Dashboard" alt="Expense Tracker Pro Screenshot" width="100%"/>
+  <img src="[https://via.placeholder.com/1200x700/4F46E5/FFFFFF?text=Expense+Tracker+Pro+Dashboard](https://ibb.co/bRj7DJHT)" alt="Expense Tracker Pro Screenshot" width="100%"/>
   <!-- YE LINK UPDATE KAR DENA jab screenshot upload karo -->
 </div>
 
@@ -37,7 +37,7 @@ Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js**
 
 ## 📸 **Add Your Screenshot**
 1. Dashboard ka **screenshot le lo**
-2. GitHub repo me `[screenshot.png](https://ibb.co/bRj7DJHT)` upload karo
+2. GitHub repo me `[screenshot.png]` upload karo
 3. README me image link update: `![Screenshot](screenshot.png)`
 
 ## 👨‍💻 **Author**
