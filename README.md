@@ -9,9 +9,12 @@ Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js**
 
 ## 📱 **Screenshot**
 <div align="center">
-  <a href="https://ibb.co/bRj7DJHT"><img src="https://i.ibb.co/84nXtczq/Screenshot-2025-12-28-at-5-19-14-PM.png" alt="Screenshot-2025-12-28-at-5-19-14-PM" border="0" /></a>
-  <!-- YE LINK UPDATE KAR DENA jab screenshot upload karo -->
+  <a href="https://ibb.co/bRj7DJHT">
+    <img src="https://i.ibb.co/S7DJGrQb/Screenshot-2025-12-28-at-5-19-14-PM.png" alt="Expense Tracker Pro Dashboard" width="100%" />
+  </a><br>
+  <small><a href="https://ibb.co/bRj7DJHT">View full size on ImgBB</a></small>
 </div>
+
 
 ## 🚀 **Features**
 - ✅ **Add expenses** with categories (Food, Transport, Shopping, etc.)
