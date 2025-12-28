@@ -7,35 +7,18 @@ Modern, beautiful expense tracking dashboard built with **Flask** + **Chart.js**
 ## ✨ **Live Demo**
 🚀 **Coming Soon!** Deployed on Render.com
 
-## 📱 **Screenshots**
+## 📱 **Live Preview**
+
 <div align="center">
-  <table>
-    <tr>
-      <td><strong>🎨 Dashboard</strong></td>
-      <td><strong>📋 All Expenses</strong></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://ibb.co/bRj7DJHT">
-          <img src="https://i.ibb.co/S7DJGrQb/Screenshot-2025-12-28-at-5-19-14-PM.png" width="500" />
-        </a>
-      </td>
-      <td>
-        <a href="https://ibb.co/Kc3hJQDG">
-          <img src="https://i.ibb.co/gv5vY5mD/Screenshot-2025-12-28-at-5-35-16-PM.png" width="500" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align:center;padding-top:20px;">
-        <a href="https://ibb.co/21vJvxJ3">
-          <img src="https://i.ibb.co/0MtkV3nV/Screenshot-2025-12-28-at-5-34-48-PM.png" width="100%" />
-        </a>
-        <br><small><strong>📊 Summary Page</strong> | Click to enlarge</small>
-      </td>
-    </tr>
-  </table>
+
+| Dashboard | All Expenses | Summary |
+|-----------|--------------|---------|
+| ![Dashboard](https://i.ibb.co/S7DJGrQb/Screenshot-2025-12-28-at-5-19-14-PM.png) | ![Expenses](https://i.ibb.co/gv5vY5mD/Screenshot-2025-12-28-at-5-35-16-PM.png) | ![Summary](https://i.ibb.co/0MtkV3nV/Screenshot-2025-12-28-at-5-34-48-PM.png) |
+
+<sub>Click any image to view full HD (2940x1912) 👆 | Hosted on [ImgBB](https://imgbb.com)</sub>
+
 </div>
+
 
    
 ## 🚀 **Features**
