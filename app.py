@@ -148,7 +148,7 @@ def home():
 <!--  COPYRIGHT YE ADD KARO  -->
 <div class="text-center mt-12 pt-8 border-t border-gray-200 dark:border-gray-600">
     <p class="text-sm text-gray-500 dark:text-gray-400">
-        © 2025 Rajali. All rights reserved. | Made in India ❤️
+        © 2025 Shorya jain. All rights reserved. | Made in India ❤️
     </p>
 </div>
     </div>
